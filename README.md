@@ -3,8 +3,8 @@
 > ⚠️ **Active Development:** I am currently building, breaking, and refactoring this project daily as I explore Python and C algorithms, grid logic, and UI design. 
 
 ## 📅 Recent Updates
-* **October 27th 2026:** 
-* *(Coming next):* Added a function that places random numbers between 1 to 9 in the 9*9 matrix. In addition I also 
+* **October 27th 2026:** Added a function that places random numbers between the numbers 1 to 9 in the 9*9 matrix. In addition I also added a function that fills in the 9*9 matrix with a valid and correct sudoku filled puzzel. 
+* *(Coming next):*
 
 ---
 
