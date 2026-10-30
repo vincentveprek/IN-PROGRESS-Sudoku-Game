@@ -33,7 +33,7 @@ void intialise_8(){
 void intialise_completely_correctly_filled(){
     int local_grid_numbers [9][9] = {
         {6, 7, 8, 2, 5, 4, 3, 9, 1},
-        {1, 4, 5, 3, 7, 9, 6, 2, 9},
+        {1, 4, 5, 3, 7, 9, 6, 2, 8},
         {9, 2, 3, 8, 1, 6, 5, 4, 7},
         {3, 6, 7, 5, 9, 8, 4, 1, 2}, 
         {2, 8, 4, 1, 3, 7, 9, 6, 5},
